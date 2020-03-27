@@ -788,8 +788,10 @@ public abstract class Chart<T extends ChartData<? extends IDataSet<? extends Ent
             Highlight highlight = mIndicesToHighlight[i];
 
             IDataSet set = mData.getDataSetByIndex(highlight.getDataSetIndex());
-            if (set == null) 
+            if (set == null) {
+                Log.i(LOG_TAG, "Used to crash.");
                 continue;
+            }
             Entry e = mData.getEntryForHighlight(mIndicesToHighlight[i]);
             int entryIndex = set.getEntryIndex(e);
 
