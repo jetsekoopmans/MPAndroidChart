@@ -111,7 +111,7 @@ If you like this library, please tell others about it :two_hearts: :two_hearts:
 [![Share on Google+](https://github.com/PhilJay/MPAndroidChart/blob/master/design/googleplus_icon.png)](https://plus.google.com/share?url=https://github.com/PhilJay/MPAndroidChart)
 [![Share on Facebook](https://github.com/PhilJay/MPAndroidChart/blob/master/design/facebook_icon.png)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/PhilJay/MPAndroidChart)
 
-You can follow me on Twitter [**@PhilippJahoda**](https://twitter.com/PhilippJahoda) or sign up for my [**coding newsletter**](https://weeklycoding.com).
+If you like, you can follow me on Twitter [**@PhilippJahoda**](https://twitter.com/PhilippJahoda).
 
 <br/>
 
@@ -187,7 +187,7 @@ You can follow me on Twitter [**@PhilippJahoda**](https://twitter.com/PhilippJah
 
 <h1 id="license">License :page_facing_up:</h1>
 
-Copyright 2019 Philipp Jahoda
+Copyright 2020 Philipp Jahoda
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
